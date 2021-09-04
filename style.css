@@ -1,0 +1,13 @@
+.card-img-top {
+  height: 160px;
+  width: auto;
+}
+
+.card {
+  height: 350px;
+  width: 20px;
+}
+
+span {
+  font-weight: bold;
+}
